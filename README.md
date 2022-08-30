@@ -1,0 +1,2 @@
+# beginner-friendly-deeplearningIntro
+This repository is greatly inspired by deeplearning.ai deep learning specialisation by Andrew Ng and Tensorflow Professional Certificate by Lawrence on coursera.  It containes my organised notes/thoughts on deep leanring after completing both courses. It was recently created for a presentation to my peers with whom I work with at school on a project. I strongly believe it will be of help to beginners. Will love to hear your feedback.
